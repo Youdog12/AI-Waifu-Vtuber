@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "amiga",
+            "request": "launch",
+            "name": "Test configuration",
+            "config": "A500",
+            "program": "test_program",
+            "kickstart": "test_kickstart.rom"
+        }
+    ]
+}
